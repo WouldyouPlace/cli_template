@@ -1,0 +1,12 @@
+dist/
+.temp/
+.rn_temp/
+node_modules/
+.DS_Store
+.eslintcache
+project.private.config.json
+.yalc
+yalc.lock
+.vscode/
+.swc/
+.idea/
